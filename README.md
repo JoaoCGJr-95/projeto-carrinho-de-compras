@@ -1,1 +1,1 @@
-# projeto-carrinho-de-compras
+Explore a praticidade de comprar online com este projeto de carrinho de compras em JavaScript, HTML e CSS. Escolha entre uma variedade de itens, insira a quantidade desejada e veja o subtotal de cada item. Ao finalizar, obtenha o total da compra e a lista completa dos itens selecionados
